@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\overh\desktop\csc 4240 - artificial intelligence\program1 - genetic traveling salesman\program1 - genetic traveling salesman\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\overh\desktop\csc 4240 - artificial intelligence\program1 - genetic traveling salesman\program1 - genetic traveling salesman\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\overh\desktop\csc 4240 - artificial intelligence\program1 - genetic traveling salesman\program1 - genetic traveling salesman\main.cpp(87): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\overh\desktop\csc 4240 - artificial intelligence\program1 - genetic traveling salesman\program1 - genetic traveling salesman\utility.h(7): warning C4018: '<': signed/unsigned mismatch
+  c:\users\overh\desktop\csc 4240 - artificial intelligence\program1 - genetic traveling salesman\program1 - genetic traveling salesman\main.cpp(129): note: see reference to function template instantiation 'int find_index<std::string>(std::vector<std::string,std::allocator<_Ty>>,T)' being compiled
+          with
+          [
+              _Ty=std::string,
+              T=std::string
+          ]
+  Program1 - Genetic Traveling Salesman.vcxproj -> C:\Users\overh\Desktop\CSC 4240 - Artificial Intelligence\Program1 - Genetic Traveling Salesman\Debug\Program1 - Genetic Traveling Salesman.exe
